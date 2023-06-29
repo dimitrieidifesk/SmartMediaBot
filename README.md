@@ -1,10 +1,10 @@
+# SmartMediaBot 
+
 ![top-language](https://img.shields.io/github/languages/top/dimitrieidifesk/SmartMediaBot)
 
 ![watchers](https://img.shields.io/github/watchers/dimitrieidifesk/SmartMediaBot?style=social)
 ![forks](https://img.shields.io/github/forks/dimitrieidifesk/SmartMediaBot?style=social)
 ![start](https://img.shields.io/github/stars/dimitrieidifesk/SmartMediaBot?style=social)
-
----
 
 Данный телеграмм бот предоставляет три команды для обработки файлов:
 
